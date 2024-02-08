@@ -1,6 +1,6 @@
 ![hello-there](https://github.com/brtoz/brtoz/assets/124490379/39fdcb68-ab1f-4cc9-a76e-41a12a6c7d0d)
 # 💫 About Me:
-🌱 I’m currently learning React Native<br>💬 Ask me about C#, Arduino, Nextion, WordPress<br>📧 Contact me beratozfidan@hotmail.com
+🌱 I’m currently learning React Native<br>💬 Ask me about C#, Arduino, Nextion <br>📧 Contact me beratozfidan@hotmail.com
 
 
 ## 🌐 Socials:
