@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=30&duration=4000&pause=800&color=F23133&center=true&vCenter=true&random=false&width=435&lines=Merhaba+Ben+Berat)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=30&duration=4000&pause=700&color=F23133&center=true&vCenter=true&random=false&width=435&lines=Merhaba+Ben+Berat)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=90&duration=4000&pause=500&center=true&vCenter=true&random=false&width=2250&height=300&lines=Web+Alan%C4%B1nda+Kendimi+Geli%C5%9Ftirmeye+%C3%87al%C4%B1%C5%9F%C4%B1yorum..)](https://git.io/typing-svg)
 ![hello-there](https://github.com/brtoz/brtoz/assets/124490379/39fdcb68-ab1f-4cc9-a76e-41a12a6c7d0d)
 </div>
