@@ -5,7 +5,7 @@
 ![hello-there](https://github.com/brtoz/brtoz/assets/124490379/39fdcb68-ab1f-4cc9-a76e-41a12a6c7d0d)
 
 # 💫 About Me:
-🌱 I’m currently learning React <br> 💬 Ask me about C# <br> 📧 Contact me beratozfidan@hotmail.com
+🌱 I’m currently learning React <br> 💬 Ask me about C# <br> 📧 Contact me contact@beratozfidan.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/brtoz) 
